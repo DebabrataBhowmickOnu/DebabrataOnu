@@ -20,6 +20,11 @@
     display: grid;
     grid-template-columns: repeat(2,1fr);
     align-items: center;
+    padding: 50px 0;
+}
+.Calendly_container{
+    display: flex;
+    justify-content: end;
 }
 .contact_container h3{
     font-size: 36px;

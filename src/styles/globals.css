@@ -62,6 +62,10 @@ body{
   background: #1C1C21;
   font-family: 'Sarpanch', 'Arial', sans-serif;
 }
+._cUP1np9gMvFQrcPftuf {
+  display: flex;
+  justify-content: end !important;
+}
 .main_container{
  padding-left: 12%;
  padding-right: 12%;
